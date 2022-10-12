@@ -1,2 +1,2 @@
 # Assignments
-This repo is to collate all the assignments during PGDBA course
+This repo is created to collate all the assignments during PGDBA course
